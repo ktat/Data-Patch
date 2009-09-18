@@ -1,0 +1,10 @@
+Revision history for Data-Patch
+
+0.02    2007/06/15
+	fix bug
+	when subroutine return defined empty value, this don't modify the value.
+
+0.01    2006/12/30
+        First version.
+        This is made as a part of Glue.
+        separated from Glue.
